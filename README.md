@@ -1,13 +1,13 @@
 # Arch Setup Script
 
-This script automates the initial setup and configuration of a fresh Arch Linux installation.
-It installs essential packages, configures the environment, and applies basic system settings.
+This script sets up a development environment on an existing Arch Linux system.  
+It installs essential packages, configures the shell and user preferences, and applies basic system tweaks.
 
 ## Features
 
-- Installs base and common packages
-- Configures system settings and user environment
-- Sets up development tools and utilities
+- Installs common base packages and development tools
+- Configures system and user environment settings
+- Sets up a productive development-ready Arch environment
 
 ## Usage
 
@@ -27,5 +27,9 @@ It installs essential packages, configures the environment, and applies basic sy
 `./setup-dev.sh`
 
 ## Notes
-- This script assumes your are running on a fresh Arch Linux installation
-- Customize the script to fit personal preferences and needs.
+
+- For pre-installed Arch systems only.
+- Sets up my personal development environment.
+- Customize as needed.
+- Currently refining for a robust, minimal Arch base setup.
+
